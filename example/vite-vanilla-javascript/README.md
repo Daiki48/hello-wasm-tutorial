@@ -90,4 +90,4 @@ export default defineConfig({
 npm run dev
 ```
 
-![success](/success-localserver.png)
+![success](./public/success-localserver.png)
